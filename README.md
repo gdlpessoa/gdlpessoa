@@ -23,7 +23,7 @@ Outside of work, I explore topics like reverse engineering and malware analysis.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0therprsn&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdlpessoa&layout=compact&theme=github_dark)
 
 
 ## Focus Areas  
